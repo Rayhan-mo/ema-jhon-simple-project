@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    padding-bottom: 1vh;
+    border-bottom: 1px solid lightblue;
+    margin-bottom: 1vh;
+}
+.details h4{
+    color: blue;
+    font-weight: 400;
+}
+.product-image{
+    padding-right: 1vh;
+    padding-top: 5vh;
+}
+ .product-image img{
+    width: 200px;
+}
+.addCartButton{
+    background-color: goldenrod;
+    border-radius: 4px;
+    padding: 6px;
+    border: none;
+    cursor: pointer;
+    width: 30vh;
+}
